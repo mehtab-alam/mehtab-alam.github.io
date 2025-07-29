@@ -4,8 +4,8 @@
 ## Dr. Mehtab Alam Syed
 
 **Postdoctoral Researcher, CIRAD, Montpellier, France**  
-Email: mehtab_alam.syed@cirad.fr  
-[GitHub](https://github.com/mehtab-alam) | [Google Scholar](https://scholar.google.com/) | [LinkedIn](https://www.linkedin.com/in/mehtab-alam-syed)
+Email: [mehtab_alam.syed@cirad.fr](mailto:mehtab_alam.syed@cirad.fr)  
+[GitHub](https://github.com/mehtab-alam) | [Google Scholar]([https://scholar.google.com/](https://scholar.google.fr/citations?user=AH5zXb4AAAAJ&hl=en&oi=ao)) | [LinkedIn](https://www.linkedin.com/in/syed-mehtab-alam-b4564a30/)
 
 ---
 
