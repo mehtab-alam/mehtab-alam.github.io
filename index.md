@@ -1,4 +1,6 @@
 
+<img src="profile.jpg" alt="Mehtab Alam Syed" style="width:180px; height:180px; border-radius:50%; object-fit:cover; display:block; margin:auto; box-shadow: 0 2px 8px #cccccc;">
+
 # Dr. Mehtab Alam Syed
 
 **Postdoctoral Researcher, CIRAD, Montpellier, France**  
