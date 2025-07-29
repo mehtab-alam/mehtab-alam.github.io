@@ -1,7 +1,3 @@
----
-layout: default
-title: "Dr. Mehtab Alam Syed"
----
 
 # Dr. Mehtab Alam Syed
 
