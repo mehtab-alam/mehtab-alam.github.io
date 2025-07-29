@@ -1,5 +1,5 @@
 
-<img src="profile.jpg" alt="Mehtab Alam Syed" style="width:100px; height:100px; border-radius:50%; object-fit:cover; display:block; margin:auto; box-shadow: 0 2px 8px #cccccc;">
+<img src="profile.jpg" alt="Mehtab Alam Syed" style="width:120px; height:120px; border-radius:50%; object-fit:cover; display:inline-block; vertical-align:middle; margin-right:24px; float:left; box-shadow:0 2px 8px #cccccc;">
 
 # Dr. Mehtab Alam Syed
 
